@@ -21,7 +21,7 @@ This is a simple Netflix clone built using HTML, CSS, and JavaScript. The projec
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/Kripanshu-Gupta/netflix-clone.git
    ```
 2. Navigate to the project folder:
    ```sh
